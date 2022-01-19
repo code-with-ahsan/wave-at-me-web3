@@ -5,7 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "predeploy": "vite build --base=/my-wave-portal/",
+    "predeploy": "vite build --base=/wave-at-me-web3/",
     "deploy": "gh-pages --dist=dist"
   },
   "dependencies": {
